@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`ab22e71`](https://github.com/stdlib-js/stdlib/commit/ab22e71e05aceb5e97062ec6fad80ae27792f30a) - address typo in error message
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`ab22e71`](https://github.com/stdlib-js/stdlib/commit/ab22e71e05aceb5e97062ec6fad80ae27792f30a) - **fix:** address typo in error message _(by Athan Reines)_
 -   [`6ccbed0`](https://github.com/stdlib-js/stdlib/commit/6ccbed041b34b95f10ac80330eeebd48d73153dd) - **docs:** fix grammar in comments _(by Athan Reines)_
 -   [`a8f51b6`](https://github.com/stdlib-js/stdlib/commit/a8f51b69d46c9fd288ecb828a75582cfd6f36aa3) - **feat:** add `napi/argv-strided-int32array2d` _(by Athan Reines)_
 
