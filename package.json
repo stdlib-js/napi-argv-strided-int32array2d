@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-strided-int32array2d",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert a Node-API value representing a two-dimensional strided array to a signed 32-bit integer array.",
   "license": "Apache-2.0",
   "author": {
